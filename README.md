@@ -36,16 +36,11 @@
 
 ## 🚀 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,tensorflow,postgres,mysql,docker,git,github,linux,vscode,java,js,html,css" />
-</p>
+<p align="center"><img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,tensorflow,postgres,mysql,docker,git,github,linux,vscode,java,js,html,css" /></p>
 
 ---
-
-## 🧠 Neural Network Animation
-
 <p align="center">
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="500">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hibGFiemtkMm03a2w4emIxcHBlODY2eGV2NTQ4cDNmbnFtZzVvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YnexM9LwlwGu4Z1QnS/giphy.gif" width="550">
 </p>
 ---
 
@@ -92,5 +87,6 @@
 ## 💡 Developer Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+
 
 
