@@ -30,6 +30,8 @@
 
 <p align="center"><img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,tensorflow,postgres,mysql,docker,git,github,linux,vscode,java,js,html,css" /></p>
 
+---
+
 ## 🌆 GitHub Skyline
 
 <p align="center">
@@ -73,6 +75,7 @@
 ## 💡 Developer Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+
 
 
 
