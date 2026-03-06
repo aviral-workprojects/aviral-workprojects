@@ -45,7 +45,7 @@
 ## 🧠 Neural Network Animation
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ashutosh1919/ashutosh1919/master/assets/neural-network.gif" width="700">
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="500">
 </p>
 
 ---
@@ -93,3 +93,4 @@
 ## 💡 Developer Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+
